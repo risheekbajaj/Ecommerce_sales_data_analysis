@@ -61,27 +61,27 @@ I engineered a **Star Schema** data model to ensure efficient query performance 
 The report is divided into 5 interactive pages, each serving a specific analytical purpose:
 
 ### 1. Overview Dashboard
-* *Goal:** High-level executive summary of business health.
+**Goal:** High-level executive summary of business health.
 * **Visuals:** KPI cards for Revenue and Profit; Trend lines for Revenue by Year; Zone-wise revenue distribution.
 * **Insight:** Zone 3 is the highest revenue contributor ($69M), significantly outperforming Zone 4 ($21M).
 
 ### 2. Order Insights
-* *Goal:** Analyze shipping efficiency and order characteristics.
+**Goal:** Analyze shipping efficiency and order characteristics.
 * **Visuals:** Orders by Status (Delivered vs. Returned), Age Group analysis, and Delivery Type.
 * **Insight:** There is a significant return rate (~26.99%), indicating a potential area for operational improvement.
 
 ### 3. Product Insights
-* *Goal:** Identify high-performing categories and trends.
+**Goal:** Identify high-performing categories and trends.
 * **Visuals:** Revenue by Product Category/Sub-category, Weekly sales trends.
 * **Insight:** **Fashion** ($52.82M) and **Electronics** ($48.84M) are the dominant categories, contributing over 60% of total revenue.
 
 ### 4. Customer Insights
-* *Goal:** Understand who the customers are and where they come from.
+**Goal:** Understand who the customers are and where they come from.
 * **Visuals:** Customer distribution by Location (Top locations: Greater Accra, Ashanti), Revenue per Customer Gender.
 * **Insight:** The customer base is heavily concentrated in specific regions, suggesting targeted regional marketing could be effective.
 
 ### 5. Profit Insights & Forecasting
-* *Goal:** Predictive analytics for future planning.
+**Goal:** Predictive analytics for future planning.
 * **Visuals:** "What-if" parameters for Price and Discount increments; Profit forecasting based on historical trends.
 * **Capability:** Allows stakeholders to simulate scenarios (e.g., "What happens to profit if we increase discounts by 5%?").
 
